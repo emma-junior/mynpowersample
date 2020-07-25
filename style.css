@@ -1,0 +1,147 @@
+body{
+	margin: 0;
+	padding: 0;
+	line-height: 1.6em;
+	font-family: Arial, helvetica, sans-serif;
+}
+
+h1{
+	float: right;
+	font-size:12px;
+}
+
+.container a:hover{
+	color: orange;
+}
+.begin{
+	position: fixed;
+	width: 100%;
+}
+#third{
+	background-image: url('../npower/man.jpg');
+	min-height: 600px;
+	margin-bottom: 70px;
+
+}
+#third h1{
+	color: white;
+	font-size: 40px;
+	font-weight: bold;
+	padding-top: 200px;
+	text-align: center; 
+	float: right;
+}
+.button{
+	background-color: hsla(0, 100%, 70%, 0.3);
+	color: #333;
+	padding: 10px 15px;
+	border-radius: 25px
+}
+
+a{
+	text-decoration: none;
+}
+li{
+	list-style: none;
+	padding-top: 20px;
+	font-size: 14px;
+}
+li a{
+	color: #666;
+}
+}
+.cover a:hover{
+	color: lightgreen;
+}
+.cover{
+	position: relative;
+}
+.cover{
+	text-align: right;
+	color: #444;
+} 
+
+.lady{
+	height: 300px;
+} 
+.award{
+	height: 400px;
+	position: absolute;
+	width: 300px;
+	top: 110px; 
+	left: 160px;
+} 
+
+.triple h3{
+	padding-top: 30px;
+	font-size: 20px;
+	color: #333;
+}
+.triple .container-fluid{
+	background-color: #E6E6FA;
+	margin-top: 100px;
+}
+.triple .row{
+	padding: 40px 30px;
+}
+.pics .h7{
+	color: #444;
+	padding-bottom: 30px;
+}
+.programme{
+	font-weight: bold;
+	font-size: 30px;
+}
+.mother-daughter{
+	height: 400px;
+	width: 350px;
+}
+.bearded-man{
+	height: 400px;
+	width: 350px;
+}
+.woman-working{
+	height: 400px;
+	width: 350px;
+} 
+.black-children{
+	padding-top: 20px;
+	height: 400px;
+	width: 550px;
+} 
+.pics .container{
+	margin-top: 100px;
+}
+.fifth{
+	background-color: #a8d0eb;
+}
+.fifth .container{
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+.testimonials{
+	font-weight: bold;
+	font-size: 30px;
+}
+.contact{
+	font-weight: bold;
+	font-size: 30px;	
+}
+.sixth .row{
+	padding-top: 30px;
+	padding-bottom: 30px;
+	padding-left: 70px;
+}
+.seventh .container-fluid{
+	background-color: #222;
+}
+.late{
+	color: white;
+}
+.seventh .row{
+	padding: 70px 40px;
+}
+.container-fluid a:hover{
+	color: orange;
+}
+
